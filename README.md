@@ -10,6 +10,6 @@ Requirement Tool :
 1	Red LED
   
 Author :
-Rizalul Akhyar ( Computer Engineering, Syiah Kuala University )
-Mulkiansah ( Computer Engineering, Syiah Kuala University )
-Novianda ( Computer Engineering, Syiah Kuala University )
+Rizalul Akhyar ( http://komputer.unsyiah.ac.id/ )
+Mulkiansah ( http://komputer.unsyiah.ac.id/ )
+Novianda ( http://komputer.unsyiah.ac.id/ )
