@@ -13,3 +13,6 @@ Author :
 Rizalul Akhyar ( http://komputer.unsyiah.ac.id/ )
 Mulkiansah ( http://komputer.unsyiah.ac.id/ )
 Novianda ( http://komputer.unsyiah.ac.id/ )
+
+And Link Prototipe :
+https://www.tinkercad.com/things/38KcIjBePlg-team-c/editel?sharecode=5Ub22vRtuNZB_wlcSQPLduaPfkvw4qykD8Ae95Inqnc=
